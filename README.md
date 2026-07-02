@@ -1,6 +1,6 @@
 # Customer Segmentation Analysis Using RFM & K-Means Clustering
 
-## 🎯 Business Challenge
+## Business Challenge
 
 E-commerce and subscription businesses face a critical problem: **treating all customers the same.**
 
@@ -14,7 +14,7 @@ This project demonstrates how data-driven customer segmentation solves these pro
 
 ---
 
-## 📊 Project Overview
+## Project Overview
 
 **Objective:** Identify distinct customer segments based on behavioral patterns to enable targeted marketing and retention strategies.
 
@@ -27,7 +27,7 @@ This project demonstrates how data-driven customer segmentation solves these pro
 
 ---
 
-## 🔍 Key Business Insights
+## Key Business Insights
 
 ### 1. Revenue Concentration
 **Finding:** Top 3% of customers (114 customers) generate 56% of total 48revenue (₹6.13M out of ₹10.8M)
@@ -90,7 +90,7 @@ Three distinct clusters identified:
 
 ---
 
-## 💼 Business Applications
+## Business Applications
 
 ### For E-commerce Companies:
 - **Marketing:** Allocate budget based on customer lifetime value, not acquisition cost
@@ -110,7 +110,7 @@ Three distinct clusters identified:
 
 ---
 
-## 🛠️ Technical Implementation
+## Technical Implementation
 
 ### Methodology
 
@@ -163,7 +163,7 @@ monetary = total_revenue
 
 ---
 
-## 📈 Dashboard Preview
+## Dashboard Preview
 
 ![Customer Segmentation Dashboard](dashboard_customer_segementation.png)
 
@@ -176,7 +176,7 @@ monetary = total_revenue
 
 ---
 
-## 📁 Deliverables
+## Deliverables
 
 **For Business Teams:**
 1. Complete customer list with segment assignments
@@ -191,7 +191,7 @@ monetary = total_revenue
 
 ---
 
-## 💡 Implementation Roadmap
+## Implementation Roadmap
 
 ### Week 1: Immediate Actions
 - [ ] Review `at_risk_customers` and initiate retention outreach
@@ -211,7 +211,7 @@ monetary = total_revenue
 
 ---
 
-## 📊 Expected Business Impact
+## Expected Business Impact
 
 ### Conservative Estimates (Year 1):
 
@@ -229,18 +229,18 @@ monetary = total_revenue
 
 ---
 
-## 🎓 Skills Demonstrated
+## Skills Demonstrated
 
-✅ **Business Analysis:** Translating data patterns into revenue impact  
-✅ **Statistical Modeling:** RFM framework + K-Means clustering  
-✅ **Python Programming:** pandas, numpy, scikit-learn  
-✅ **Data Visualization:** Power BI dashboard design  
-✅ **Strategic Thinking:** Actionable recommendations with ROI projections  
-✅ **Stakeholder Communication:** Business-friendly insights presentation  
+**Business Analysis:** Translating data patterns into revenue impact  
+**Statistical Modeling:** RFM framework + K-Means clustering  
+**Python Programming:** pandas, numpy, scikit-learn  
+**Data Visualization:** Power BI dashboard design  
+**Strategic Thinking:** Actionable recommendations with ROI projections  
+**Stakeholder Communication:** Business-friendly insights presentation  
 
 ---
 
-## 📫 About This Project
+## About This Project
 
 This analysis demonstrates a systematic approach to customer segmentation that drives measurable business outcomes. The methodology is applicable across e-commerce, SaaS, subscription, and retail businesses.
 
@@ -252,9 +252,8 @@ I specialize in helping growing companies:
 - Optimize marketing spend through data-driven segmentation
 - Create executive dashboards for ongoing monitoring
 
-📧 **Email:** (roshleensingla4085@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/roshleen-singla-63512b2b4](https://www.linkedin.com/in/roshleen-singla-63512b2b4)  
-📊 **Portfolio:** [github.com/Roshleen-Singla](https://github.com/Roshleen-Singla)  
+ **Email:** (kartikeym004@gmail.com)  
+ **LinkedIn:** [linkedin.com/in/kartikey004](https://www.linkedin.com/in/kartikey004/)
 
 ---
 
